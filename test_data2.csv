@@ -1,0 +1,403 @@
+date,state,item category,subcategory,festival,sales
+17-01-2016,Gujarat,Toys,Dolls,No Festival,20
+13-07-2024,Tamil Nadu,Electronics,Laptop,No Festival,110
+18-01-2015,Tamil Nadu,Furniture,Wardrobes,No Festival,37
+01-06-2024,Kerala,Stationery,Pens,No Festival,38
+12-08-2021,Kerala,Footwear,Heels,No Festival,47
+09-03-2017,Bihar,Electronics,Smartwatch,No Festival,42
+04-09-2015,Jharkhand,Electronics,Smartphone,No Festival,36
+02-12-2018,Goa,Stationery,Markers,No Festival,19
+22-10-2018,Maharashtra,Groceries,Spices,No Festival,74
+11-12-2015,Maharashtra,Footwear,Slippers,No Festival,88
+16-05-2016,Himachal Pradesh,Clothes,Shirts,No Festival,24
+09-05-2017,Karnataka,Groceries,Spices,No Festival,30
+17-10-2022,Tripura,Clothes,Dresses,No Festival,23
+29-07-2019,Rajasthan,Groceries,Vegetables,No Festival,81
+26-03-2019,Odisha,Electronics,Laptop,No Festival,49
+29-09-2021,Haryana,Home Appliances,Refrigerator,No Festival,92
+17-12-2016,Himachal Pradesh,Groceries,Beverages,No Festival,33
+21-10-2016,West Bengal,Furniture,Tables,No Festival,39
+16-09-2021,Himachal Pradesh,Beauty & Personal Care,Makeup,Ganesh Chaturthi,27
+06-07-2018,Haryana,Electronics,Laptop,No Festival,45
+12-08-2023,Tamil Nadu,Furniture,Chairs,No Festival,58
+17-03-2018,Tamil Nadu,Books,Magazines,No Festival,18
+29-09-2016,Andhra Pradesh,Toys,Dolls,No Festival,44
+07-03-2022,Haryana,Footwear,Boots,No Festival,70
+23-08-2021,Punjab,Stationery,Notebooks,No Festival,21
+05-12-2017,Meghalaya,Toys,Dolls,No Festival,46
+30-01-2017,Meghalaya,Footwear,Heels,No Festival,26
+14-12-2019,Nagaland,Home Appliances,Washing Machine,No Festival,45
+07-08-2019,Rajasthan,Furniture,Beds,No Festival,46
+08-10-2019,Uttar Pradesh,Footwear,Boots,No Festival,78
+22-04-2020,Nagaland,Books,Textbooks,No Festival,22
+24-12-2017,Odisha,Stationery,Pens,No Festival,13
+23-11-2019,Manipur,Toys,Action Figures,No Festival,53
+01-10-2018,Assam,Books,Non-fiction,No Festival,49
+10-07-2018,Mizoram,Books,Fiction,No Festival,14
+26-08-2016,Telangana,Beauty & Personal Care,Body Lotion,No Festival,37
+25-06-2021,Arunachal Pradesh,Furniture,Beds,No Festival,14
+19-08-2018,Tripura,Footwear,Sneakers,No Festival,21
+21-05-2016,Mizoram,Stationery,Markers,No Festival,37
+29-08-2024,Tamil Nadu,Beauty & Personal Care,Skincare,No Festival,66
+19-10-2022,Odisha,Groceries,Fruits,No Festival,64
+22-08-2018,Uttarakhand,Furniture,Tables,No Festival,31
+02-01-2020,Maharashtra,Electronics,Television,No Festival,35
+29-05-2015,Andhra Pradesh,Clothes,Socks,No Festival,76
+17-01-2016,Rajasthan,Electronics,Camera,No Festival,16
+11-06-2023,Odisha,Furniture,Tables,No Festival,41
+13-03-2018,Bihar,Home Appliances,Air Conditioner,No Festival,18
+18-01-2018,Kerala,Toys,Remote Control Cars,No Festival,47
+06-02-2022,Mizoram,Groceries,Snacks,No Festival,32
+08-06-2019,Assam,Footwear,Boots,No Festival,31
+03-03-2022,Mizoram,Beauty & Personal Care,Haircare,No Festival,33
+30-12-2015,Tripura,Furniture,Sofas,No Festival,11
+01-09-2023,Telangana,Footwear,Sneakers,No Festival,70
+26-08-2019,Mizoram,Electronics,Smartphone,No Festival,15
+11-12-2023,Madhya Pradesh,Beauty & Personal Care,Haircare,No Festival,40
+26-11-2022,West Bengal,Stationery,Pens,No Festival,39
+23-06-2021,Madhya Pradesh,Footwear,Heels,No Festival,63
+03-10-2023,Tripura,Stationery,Pens,No Festival,39
+15-11-2015,Jharkhand,Clothes,Socks,No Festival,61
+16-04-2024,Arunachal Pradesh,Home Appliances,Refrigerator,No Festival,34
+21-01-2021,Chhattisgarh,Toys,Action Figures,No Festival,47
+04-06-2024,Sikkim,Stationery,Folders,No Festival,8
+04-03-2015,Arunachal Pradesh,Furniture,Beds,No Festival,21
+26-12-2020,Rajasthan,Stationery,Folders,No Festival,28
+19-05-2023,Arunachal Pradesh,Home Appliances,Washing Machine,No Festival,27
+27-06-2022,Manipur,Home Appliances,Air Conditioner,No Festival,36
+10-05-2018,Goa,Books,Comics,No Festival,25
+11-05-2017,Uttar Pradesh,Clothes,Pants,No Festival,59
+18-04-2022,Punjab,Furniture,Beds,No Festival,48
+12-11-2019,Chhattisgarh,Furniture,Sofas,No Festival,52
+11-04-2024,Goa,Beauty & Personal Care,Makeup,No Festival,35
+03-12-2018,Nagaland,Electronics,Smartwatch,No Festival,48
+29-08-2018,Himachal Pradesh,Groceries,Vegetables,No Festival,39
+09-02-2019,Punjab,Stationery,Pens,No Festival,7
+06-05-2016,Sikkim,Home Appliances,Microwave,No Festival,30
+03-11-2015,Punjab,Groceries,Beverages,No Festival,72
+02-03-2019,Himachal Pradesh,Beauty & Personal Care,Skincare,No Festival,33
+05-05-2017,Tripura,Home Appliances,Refrigerator,No Festival,11
+10-06-2021,Rajasthan,Clothes,Shirts,No Festival,22
+21-07-2016,Assam,Electronics,Smartphone,No Festival,50
+28-04-2024,Meghalaya,Furniture,Wardrobes,No Festival,45
+10-03-2021,Punjab,Footwear,Sandals,No Festival,29
+20-07-2019,Haryana,Clothes,Shirts,No Festival,19
+15-12-2021,Maharashtra,Groceries,Vegetables,No Festival,78
+30-10-2015,Karnataka,Clothes,Shirts,No Festival,28
+29-01-2016,Meghalaya,Beauty & Personal Care,Makeup,No Festival,18
+03-02-2022,Arunachal Pradesh,Home Appliances,Refrigerator,No Festival,30
+15-02-2016,Nagaland,Electronics,Smartphone,No Festival,17
+30-03-2024,Mizoram,Furniture,Beds,No Festival,44
+29-12-2021,Gujarat,Home Appliances,Refrigerator,No Festival,196
+22-02-2018,Haryana,Clothes,Shirts,No Festival,16
+29-10-2017,Assam,Groceries,Beverages,No Festival,40
+27-07-2023,Chhattisgarh,Stationery,Markers,No Festival,37
+26-07-2023,Telangana,Clothes,Pants,No Festival,34
+24-05-2021,Jharkhand,Groceries,Fruits,No Festival,18
+02-02-2018,Maharashtra,Furniture,Tables,No Festival,61
+27-10-2015,Nagaland,Home Appliances,Refrigerator,No Festival,25
+09-02-2021,Gujarat,Books,Textbooks,No Festival,27
+27-04-2015,Tripura,Books,Non-fiction,No Festival,25
+26-10-2017,Bihar,Books,Textbooks,No Festival,16
+02-04-2016,Punjab,Groceries,Snacks,No Festival,50
+31-01-2015,West Bengal,Beauty & Personal Care,Skincare,No Festival,19
+25-11-2018,Assam,Footwear,Boots,No Festival,56
+11-07-2024,West Bengal,Stationery,Notebooks,No Festival,40
+18-02-2016,Goa,Footwear,Heels,No Festival,13
+24-09-2020,Punjab,Beauty & Personal Care,Makeup,No Festival,79
+24-05-2022,Mizoram,Stationery,Notebooks,No Festival,22
+27-09-2021,Tripura,Furniture,Chairs,No Festival,29
+23-09-2016,Karnataka,Books,Non-fiction,No Festival,86
+25-01-2017,Odisha,Furniture,Sofas,No Festival,8
+11-05-2024,Rajasthan,Books,Magazines,No Festival,48
+25-10-2016,Jharkhand,Toys,Board Games,No Festival,29
+30-04-2021,Odisha,Footwear,Heels,No Festival,19
+01-10-2023,Meghalaya,Footwear,Sneakers,No Festival,35
+21-03-2017,Nagaland,Beauty & Personal Care,Haircare,No Festival,18
+24-05-2015,Sikkim,Groceries,Snacks,No Festival,50
+04-03-2015,Jharkhand,Furniture,Wardrobes,No Festival,18
+26-08-2024,Andhra Pradesh,Footwear,Sandals,Janmashtami,89
+15-07-2018,Tamil Nadu,Furniture,Beds,No Festival,35
+21-08-2021,Tripura,Footwear,Sneakers,No Festival,26
+22-09-2019,Jharkhand,Groceries,Vegetables,No Festival,58
+05-09-2016,Karnataka,Toys,Dolls,Ganesh Chaturthi,63
+10-03-2021,Uttar Pradesh,Footwear,Heels,No Festival,66
+02-02-2023,Gujarat,Toys,Action Figures,No Festival,23
+19-09-2017,Himachal Pradesh,Toys,Puzzles,No Festival,31
+18-03-2024,Odisha,Stationery,Staplers,No Festival,27
+22-01-2020,Andhra Pradesh,Books,Non-fiction,No Festival,25
+12-03-2018,Mizoram,Electronics,Television,No Festival,24
+10-03-2022,Uttarakhand,Home Appliances,Microwave,No Festival,76
+10-04-2019,Uttarakhand,Electronics,Television,No Festival,39
+18-06-2019,Sikkim,Home Appliances,Vacuum Cleaner,No Festival,17
+28-01-2018,West Bengal,Beauty & Personal Care,Perfume,No Festival,55
+21-04-2020,Jharkhand,Stationery,Notebooks,No Festival,14
+06-12-2021,Uttarakhand,Electronics,Television,No Festival,158
+05-04-2024,Chhattisgarh,Clothes,Jackets,No Festival,24
+11-09-2018,Kerala,Electronics,Smartwatch,No Festival,22
+04-07-2023,Uttar Pradesh,Groceries,Vegetables,No Festival,77
+01-07-2020,Maharashtra,Groceries,Snacks,No Festival,33
+02-04-2020,Rajasthan,Stationery,Markers,No Festival,12
+07-03-2015,Sikkim,Stationery,Markers,No Festival,27
+24-05-2017,Sikkim,Footwear,Boots,No Festival,31
+15-03-2020,Sikkim,Groceries,Spices,No Festival,42
+03-01-2017,Telangana,Clothes,Pants,No Festival,15
+07-06-2023,Uttarakhand,Home Appliances,Microwave,No Festival,111
+23-04-2022,West Bengal,Home Appliances,Microwave,No Festival,107
+30-08-2024,Bihar,Clothes,Shirts,No Festival,64
+31-03-2016,Jharkhand,Beauty & Personal Care,Perfume,No Festival,19
+20-04-2016,Punjab,Toys,Dolls,No Festival,45
+13-12-2022,Assam,Footwear,Slippers,No Festival,114
+11-05-2019,Uttarakhand,Toys,Board Games,No Festival,26
+28-10-2017,Maharashtra,Groceries,Beverages,No Festival,65
+12-11-2022,Kerala,Groceries,Vegetables,No Festival,82
+28-01-2023,Tripura,Furniture,Wardrobes,No Festival,14
+08-12-2023,Haryana,Beauty & Personal Care,Haircare,No Festival,82
+21-05-2015,Madhya Pradesh,Furniture,Wardrobes,No Festival,51
+25-05-2024,Gujarat,Electronics,Smartphone,No Festival,154
+08-07-2018,Telangana,Electronics,Camera,No Festival,31
+01-12-2016,Goa,Books,Fiction,No Festival,47
+12-08-2020,Nagaland,Beauty & Personal Care,Skincare,No Festival,15
+23-04-2022,Assam,Stationery,Pens,No Festival,34
+24-07-2024,West Bengal,Home Appliances,Air Conditioner,No Festival,176
+25-12-2021,Uttarakhand,Clothes,Dresses,No Festival,67
+13-10-2018,Mizoram,Footwear,Sneakers,Navratri,30
+13-06-2016,Goa,Stationery,Staplers,No Festival,38
+15-06-2019,Andhra Pradesh,Toys,Dolls,No Festival,34
+05-04-2023,Chhattisgarh,Beauty & Personal Care,Body Lotion,No Festival,40
+03-08-2016,Punjab,Electronics,Laptop,No Festival,21
+06-12-2023,Tamil Nadu,Books,Magazines,No Festival,114
+25-07-2015,Arunachal Pradesh,Furniture,Tables,No Festival,10
+18-07-2021,Arunachal Pradesh,Beauty & Personal Care,Makeup,No Festival,42
+13-07-2021,Arunachal Pradesh,Beauty & Personal Care,Body Lotion,No Festival,59
+02-08-2024,Kerala,Books,Comics,No Festival,67
+03-09-2024,Tripura,Home Appliances,Vacuum Cleaner,No Festival,71
+05-02-2024,Tripura,Electronics,Laptop,No Festival,34
+23-06-2022,Rajasthan,Books,Textbooks,No Festival,55
+17-04-2021,Meghalaya,Clothes,Socks,No Festival,66
+10-03-2022,Assam,Stationery,Staplers,No Festival,23
+12-06-2019,Nagaland,Home Appliances,Vacuum Cleaner,No Festival,57
+09-07-2023,Jharkhand,Toys,Puzzles,No Festival,45
+29-07-2020,Chhattisgarh,Electronics,Camera,No Festival,44
+17-01-2023,Himachal Pradesh,Electronics,Laptop,No Festival,43
+10-10-2019,Uttarakhand,Groceries,Spices,No Festival,60
+23-11-2018,Maharashtra,Groceries,Beverages,No Festival,77
+17-03-2020,Assam,Groceries,Snacks,No Festival,71
+06-07-2017,Chhattisgarh,Electronics,Camera,No Festival,43
+12-07-2024,Sikkim,Electronics,Television,No Festival,70
+10-12-2022,Mizoram,Stationery,Folders,No Festival,25
+04-09-2015,Jharkhand,Furniture,Tables,No Festival,23
+05-10-2018,Uttarakhand,Books,Textbooks,No Festival,16
+17-07-2015,Chhattisgarh,Toys,Puzzles,No Festival,38
+26-08-2017,Uttar Pradesh,Stationery,Pens,Ganesh Chaturthi,23
+07-03-2016,Karnataka,Beauty & Personal Care,Body Lotion,No Festival,21
+29-08-2023,Karnataka,Books,Magazines,No Festival,70
+14-04-2023,Odisha,Books,Fiction,No Festival,17
+17-10-2023,Arunachal Pradesh,Electronics,Laptop,Navratri,24
+09-11-2018,Nagaland,Home Appliances,Washing Machine,No Festival,23
+15-10-2018,Telangana,Clothes,Pants,Navratri,109
+23-05-2023,Chhattisgarh,Footwear,Heels,No Festival,60
+15-11-2024,Assam,Home Appliances,Air Conditioner,No Festival,90
+27-07-2016,Karnataka,Home Appliances,Microwave,No Festival,88
+14-03-2018,Karnataka,Groceries,Spices,No Festival,47
+29-04-2023,Assam,Electronics,Camera,No Festival,65
+26-10-2017,Maharashtra,Books,Magazines,No Festival,54
+10-02-2016,Jharkhand,Furniture,Chairs,No Festival,28
+21-06-2023,Nagaland,Furniture,Chairs,No Festival,19
+24-02-2023,Uttarakhand,Furniture,Sofas,No Festival,49
+29-08-2018,Madhya Pradesh,Home Appliances,Vacuum Cleaner,No Festival,54
+02-08-2021,Chhattisgarh,Books,Fiction,No Festival,15
+17-12-2023,Punjab,Home Appliances,Air Conditioner,No Festival,220
+19-12-2023,Maharashtra,Furniture,Beds,No Festival,105
+01-09-2015,Jharkhand,Stationery,Pens,No Festival,39
+20-11-2015,Karnataka,Home Appliances,Washing Machine,No Festival,94
+09-08-2015,Nagaland,Books,Textbooks,No Festival,30
+16-11-2024,Mizoram,Clothes,Jackets,No Festival,76
+09-06-2019,Jharkhand,Furniture,Wardrobes,No Festival,26
+25-05-2021,Bihar,Beauty & Personal Care,Haircare,No Festival,19
+26-10-2015,Arunachal Pradesh,Furniture,Tables,No Festival,26
+15-11-2015,Uttar Pradesh,Electronics,Smartphone,No Festival,33
+28-06-2024,West Bengal,Clothes,Socks,No Festival,63
+01-09-2020,Karnataka,Toys,Puzzles,Ganesh Chaturthi,30
+13-11-2017,Telangana,Home Appliances,Washing Machine,No Festival,108
+11-09-2023,Meghalaya,Books,Textbooks,No Festival,12
+19-04-2020,Himachal Pradesh,Toys,Board Games,No Festival,30
+26-04-2021,Goa,Clothes,Shirts,No Festival,19
+21-07-2019,Chhattisgarh,Toys,Dolls,No Festival,26
+29-06-2020,Odisha,Clothes,Dresses,No Festival,46
+29-10-2020,Uttarakhand,Books,Comics,No Festival,12
+29-09-2024,Manipur,Toys,Puzzles,No Festival,43
+02-09-2023,Karnataka,Furniture,Beds,No Festival,30
+07-07-2018,Jharkhand,Electronics,Smartwatch,No Festival,22
+19-12-2024,Odisha,Clothes,Jackets,No Festival,78
+11-12-2020,Chhattisgarh,Clothes,Socks,No Festival,36
+08-04-2015,Tamil Nadu,Clothes,Pants,No Festival,55
+26-12-2018,West Bengal,Electronics,Camera,No Festival,75
+01-03-2017,Tamil Nadu,Stationery,Notebooks,No Festival,22
+04-05-2024,Arunachal Pradesh,Furniture,Beds,No Festival,39
+15-05-2016,Uttarakhand,Furniture,Beds,No Festival,52
+01-07-2015,West Bengal,Furniture,Sofas,No Festival,27
+13-03-2022,Assam,Home Appliances,Vacuum Cleaner,No Festival,28
+13-07-2020,Tripura,Beauty & Personal Care,Skincare,No Festival,41
+08-06-2021,Assam,Electronics,Smartwatch,No Festival,34
+25-04-2017,Telangana,Stationery,Pens,No Festival,32
+24-11-2015,Manipur,Stationery,Markers,No Festival,19
+26-09-2016,Chhattisgarh,Toys,Board Games,No Festival,40
+17-09-2024,Nagaland,Footwear,Boots,Ganesh Chaturthi,64
+28-11-2022,Rajasthan,Beauty & Personal Care,Body Lotion,No Festival,114
+11-02-2017,Chhattisgarh,Home Appliances,Washing Machine,No Festival,23
+07-12-2024,Assam,Toys,Board Games,No Festival,35
+30-07-2024,Tripura,Groceries,Snacks,No Festival,46
+21-08-2022,Nagaland,Footwear,Heels,No Festival,21
+02-06-2017,Uttar Pradesh,Footwear,Heels,No Festival,31
+12-01-2017,Arunachal Pradesh,Footwear,Boots,No Festival,24
+20-03-2018,Manipur,Footwear,Heels,No Festival,46
+20-11-2015,Mizoram,Toys,Puzzles,No Festival,42
+16-11-2021,Arunachal Pradesh,Home Appliances,Washing Machine,No Festival,36
+08-05-2018,Andhra Pradesh,Stationery,Pens,No Festival,14
+31-07-2024,Madhya Pradesh,Home Appliances,Microwave,No Festival,40
+30-07-2019,Mizoram,Electronics,Smartphone,No Festival,30
+05-03-2018,Goa,Home Appliances,Microwave,No Festival,29
+18-11-2020,Manipur,Electronics,Laptop,No Festival,90
+12-01-2016,Manipur,Home Appliances,Vacuum Cleaner,No Festival,20
+24-06-2017,Assam,Home Appliances,Refrigerator,No Festival,39
+10-06-2020,Bihar,Beauty & Personal Care,Makeup,No Festival,62
+28-08-2022,Gujarat,Toys,Board Games,No Festival,40
+23-02-2018,Meghalaya,Home Appliances,Vacuum Cleaner,No Festival,14
+17-09-2018,Chhattisgarh,Clothes,Jackets,Ganesh Chaturthi,56
+17-07-2019,Telangana,Books,Non-fiction,No Festival,39
+18-12-2018,Jharkhand,Stationery,Notebooks,No Festival,12
+01-05-2019,Punjab,Beauty & Personal Care,Perfume,No Festival,77
+28-01-2022,Mizoram,Home Appliances,Washing Machine,No Festival,26
+30-11-2017,Maharashtra,Furniture,Chairs,No Festival,36
+31-05-2017,Tamil Nadu,Toys,Remote Control Cars,No Festival,44
+19-11-2021,Odisha,Stationery,Pens,No Festival,34
+25-10-2019,Odisha,Toys,Dolls,No Festival,29
+10-08-2018,Haryana,Beauty & Personal Care,Body Lotion,No Festival,81
+14-12-2016,Chhattisgarh,Furniture,Sofas,No Festival,26
+18-05-2016,Bihar,Toys,Puzzles,No Festival,28
+21-01-2020,Rajasthan,Furniture,Sofas,No Festival,16
+16-01-2024,Meghalaya,Furniture,Wardrobes,No Festival,37
+05-11-2016,Rajasthan,Furniture,Tables,No Festival,51
+12-01-2016,West Bengal,Furniture,Sofas,No Festival,30
+12-10-2021,Uttarakhand,Toys,Remote Control Cars,Navratri,29
+16-11-2024,Karnataka,Clothes,Dresses,No Festival,125
+10-09-2022,Tripura,Home Appliances,Microwave,Ganesh Chaturthi,66
+28-03-2018,Assam,Home Appliances,Microwave,No Festival,13
+23-07-2018,Uttar Pradesh,Home Appliances,Microwave,No Festival,84
+24-06-2018,Arunachal Pradesh,Furniture,Beds,No Festival,41
+27-02-2021,Tripura,Footwear,Heels,No Festival,35
+20-11-2023,Chhattisgarh,Home Appliances,Vacuum Cleaner,No Festival,60
+20-02-2015,Haryana,Clothes,Pants,No Festival,12
+18-10-2016,West Bengal,Beauty & Personal Care,Perfume,No Festival,82
+19-10-2016,Gujarat,Books,Textbooks,No Festival,48
+26-10-2022,Rajasthan,Furniture,Chairs,No Festival,67
+20-04-2016,Maharashtra,Beauty & Personal Care,Body Lotion,No Festival,68
+13-11-2022,Kerala,Toys,Board Games,No Festival,48
+04-01-2021,Madhya Pradesh,Toys,Board Games,No Festival,47
+27-10-2015,Jharkhand,Clothes,Socks,No Festival,52
+26-01-2021,Meghalaya,Beauty & Personal Care,Perfume,No Festival,23
+10-04-2015,Sikkim,Electronics,Smartwatch,No Festival,7
+07-11-2019,Assam,Furniture,Tables,No Festival,52
+13-02-2015,Kerala,Beauty & Personal Care,Skincare,No Festival,14
+07-01-2015,Arunachal Pradesh,Toys,Dolls,No Festival,38
+18-09-2018,Mizoram,Toys,Dolls,Ganesh Chaturthi,23
+09-12-2022,Assam,Footwear,Sandals,No Festival,88
+13-03-2020,Sikkim,Stationery,Pens,No Festival,23
+27-04-2020,Meghalaya,Toys,Dolls,No Festival,30
+03-09-2024,Rajasthan,Furniture,Beds,No Festival,49
+06-02-2017,Uttar Pradesh,Beauty & Personal Care,Perfume,No Festival,12
+05-12-2022,Manipur,Books,Magazines,No Festival,69
+30-05-2017,Kerala,Home Appliances,Refrigerator,No Festival,50
+16-01-2017,Tamil Nadu,Footwear,Heels,No Festival,13
+03-11-2016,Madhya Pradesh,Home Appliances,Air Conditioner,No Festival,28
+07-04-2019,Karnataka,Electronics,Camera,No Festival,35
+08-12-2015,Bihar,Beauty & Personal Care,Skincare,No Festival,17
+12-02-2018,Mizoram,Home Appliances,Air Conditioner,No Festival,31
+13-08-2020,Karnataka,Groceries,Snacks,No Festival,45
+24-12-2018,West Bengal,Toys,Action Figures,No Festival,69
+21-04-2023,Goa,Groceries,Beverages,No Festival,72
+03-11-2015,Uttar Pradesh,Books,Comics,No Festival,40
+05-06-2019,Haryana,Groceries,Spices,No Festival,50
+13-01-2015,Uttarakhand,Groceries,Fruits,No Festival,55
+16-01-2015,Assam,Footwear,Sandals,No Festival,16
+11-04-2022,Madhya Pradesh,Electronics,Laptop,No Festival,86
+07-05-2019,West Bengal,Toys,Remote Control Cars,No Festival,59
+09-11-2020,Nagaland,Toys,Remote Control Cars,No Festival,36
+08-06-2023,Tripura,Home Appliances,Washing Machine,No Festival,117
+23-05-2017,Telangana,Electronics,Camera,No Festival,27
+20-12-2023,Mizoram,Beauty & Personal Care,Body Lotion,No Festival,84
+02-09-2020,Odisha,Beauty & Personal Care,Skincare,No Festival,15
+07-07-2021,Bihar,Furniture,Chairs,No Festival,42
+13-07-2015,West Bengal,Footwear,Heels,No Festival,40
+24-08-2017,Meghalaya,Beauty & Personal Care,Perfume,No Festival,43
+05-03-2015,Haryana,Books,Fiction,No Festival,14
+30-01-2016,Tripura,Books,Comics,No Festival,7
+02-04-2017,Andhra Pradesh,Books,Fiction,No Festival,47
+05-04-2019,Tamil Nadu,Toys,Dolls,No Festival,27
+06-11-2023,Arunachal Pradesh,Footwear,Boots,No Festival,86
+21-03-2020,Assam,Beauty & Personal Care,Skincare,No Festival,30
+30-09-2018,Mizoram,Electronics,Laptop,No Festival,59
+05-07-2020,Meghalaya,Toys,Dolls,No Festival,36
+28-04-2022,Himachal Pradesh,Electronics,Laptop,No Festival,39
+07-01-2016,Haryana,Home Appliances,Microwave,No Festival,50
+05-06-2018,Telangana,Beauty & Personal Care,Body Lotion,No Festival,85
+19-12-2024,Uttarakhand,Stationery,Staplers,No Festival,12
+11-01-2024,Uttarakhand,Footwear,Sandals,No Festival,13
+12-09-2015,West Bengal,Electronics,Camera,No Festival,39
+28-10-2015,Uttarakhand,Clothes,Pants,No Festival,21
+31-10-2021,Tripura,Beauty & Personal Care,Perfume,No Festival,39
+07-06-2018,Goa,Stationery,Staplers,No Festival,46
+05-10-2021,Uttarakhand,Electronics,Laptop,No Festival,106
+07-07-2024,Punjab,Groceries,Fruits,No Festival,76
+30-03-2016,Jharkhand,Books,Non-fiction,No Festival,35
+09-05-2023,Karnataka,Home Appliances,Vacuum Cleaner,No Festival,166
+20-03-2016,Jharkhand,Books,Fiction,No Festival,14
+03-02-2024,Uttarakhand,Footwear,Sandals,No Festival,32
+26-02-2022,Odisha,Toys,Remote Control Cars,No Festival,12
+01-08-2021,Meghalaya,Clothes,Dresses,No Festival,57
+02-01-2018,Andhra Pradesh,Clothes,Jackets,No Festival,50
+22-07-2022,Andhra Pradesh,Home Appliances,Air Conditioner,No Festival,135
+21-12-2015,Chhattisgarh,Books,Magazines,No Festival,16
+11-07-2017,Chhattisgarh,Electronics,Smartphone,No Festival,41
+24-12-2019,Bihar,Electronics,Smartwatch,No Festival,109
+16-07-2019,Chhattisgarh,Stationery,Pens,No Festival,19
+20-11-2020,Tamil Nadu,Toys,Board Games,No Festival,85
+28-03-2016,Jharkhand,Groceries,Spices,No Festival,33
+09-11-2022,Odisha,Beauty & Personal Care,Makeup,No Festival,58
+19-05-2020,Tamil Nadu,Electronics,Camera,No Festival,101
+04-12-2022,Odisha,Furniture,Sofas,No Festival,28
+01-03-2016,Andhra Pradesh,Clothes,Pants,No Festival,61
+23-01-2019,Odisha,Clothes,Socks,No Festival,49
+29-11-2016,Kerala,Beauty & Personal Care,Body Lotion,No Festival,44
+15-10-2024,Haryana,Clothes,Jackets,No Festival,91
+09-09-2016,Uttar Pradesh,Furniture,Chairs,Ganesh Chaturthi,14
+06-03-2024,Chhattisgarh,Clothes,Jackets,No Festival,53
+14-10-2017,Sikkim,Furniture,Sofas,No Festival,51
+25-11-2024,Himachal Pradesh,Groceries,Vegetables,No Festival,58
+24-09-2015,Andhra Pradesh,Toys,Action Figures,Ganesh Chaturthi,35
+04-11-2024,Arunachal Pradesh,Clothes,Jackets,No Festival,71
+16-09-2017,Tamil Nadu,Groceries,Vegetables,No Festival,54
+02-11-2020,Uttar Pradesh,Stationery,Pens,No Festival,30
+27-07-2021,Assam,Stationery,Notebooks,No Festival,62
+25-06-2022,Odisha,Furniture,Sofas,No Festival,18
+04-07-2017,Andhra Pradesh,Groceries,Spices,No Festival,69
+01-05-2021,Bihar,Electronics,Smartphone,No Festival,81
+12-11-2023,Odisha,Home Appliances,Air Conditioner,Diwali,88
+06-08-2019,Tamil Nadu,Furniture,Wardrobes,No Festival,65
+29-12-2023,Andhra Pradesh,Groceries,Snacks,No Festival,110
+04-05-2022,Himachal Pradesh,Beauty & Personal Care,Skincare,No Festival,70
+28-03-2021,West Bengal,Groceries,Fruits,No Festival,83
+27-11-2019,Tamil Nadu,Beauty & Personal Care,Body Lotion,No Festival,38
+31-10-2018,Arunachal Pradesh,Clothes,Jackets,No Festival,65
+31-12-2017,Chhattisgarh,Furniture,Sofas,No Festival,40
+17-05-2022,Telangana,Books,Non-fiction,No Festival,45
+21-07-2022,Odisha,Groceries,Spices,No Festival,52
+31-05-2019,Mizoram,Books,Non-fiction,No Festival,25
+05-12-2023,Rajasthan,Beauty & Personal Care,Perfume,No Festival,88
+17-03-2016,Maharashtra,Groceries,Fruits,No Festival,24
+20-02-2024,Nagaland,Groceries,Vegetables,No Festival,23
+30-03-2015,Arunachal Pradesh,Clothes,Jackets,No Festival,16
+08-03-2023,Tripura,Toys,Board Games,Holi,20
+11-08-2022,Punjab,Groceries,Vegetables,Raksha Bandhan,48
+14-01-2021,Himachal Pradesh,Footwear,Sandals,Makar Sankranti,21
