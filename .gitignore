@@ -1,0 +1,17 @@
+# Python virtual environments
+backend/Lib/
+backend/Scripts/
+backend/Include/
+backend/bin/
+venv/
+.env/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Database files
+*.sqlite3
+
+# Logs
+*.log
