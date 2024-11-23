@@ -26,7 +26,7 @@ app = Flask(__name__)
 CORS(app, origins=["http://localhost:3000"])
 
 base_dir = os.path.abspath(os.path.dirname(__file__))
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + os.path.join(base_dir, 'backend/databases/database.db')
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + os.path.join(base_dir, 'databases/database.db')
 
 # Initialize SQLAlchemy
 db = SQLAlchemy(app)
