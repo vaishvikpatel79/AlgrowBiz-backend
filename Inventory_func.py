@@ -1,16 +1,11 @@
-def maximize_profit(budget, num_products, product_data, max_quantities):
-    
-    dp = [0] * (budget + 1)
-    
-    
+def maximize_profit(budget, num_products, product_data, max_quantities):  
+    dp = [0] * (budget + 1) 
     keep = [None] * (budget + 1)
-
-    # Process each product individually
+    
     for i in range(num_products):
         cost, profit = product_data[i]
         max_quantity = max_quantities[i]
 
-        
         for b in range(budget, cost - 1, -1):
             for q in range(1, max_quantity + 1):
                 if q * cost <= b:
@@ -26,40 +21,38 @@ def maximize_profit(budget, num_products, product_data, max_quantities):
                 else:
                     break  
     
-    max_profit = dp[budget]
-    
-    chosen_products = keep[budget] if keep[budget] is not None else []
+    max_profit = dp[budget]    
+    chosen_products = [0] * num_products
+    if keep[budget] is not None:
+        for idx, qty in keep[budget]:
+            chosen_products[idx] += qty
 
-    return max_profit, chosen_products
+    result = [(i, chosen_products[i]) for i in range(num_products)]
+    return max_profit, result
+
 
 def approximate_max_profit(budget, num_products, product_data, max_quantities):
-    
-    
     product_ratios = []
     for i in range(num_products):
         cost, profit = product_data[i]
-        ratio = profit / cost
-        product_ratios.append((ratio, i, cost, profit, max_quantities[i]))
+        if profit > 0:  # Only consider products with non-negative profit
+            ratio = profit / cost
+            product_ratios.append((ratio, i, cost, profit, max_quantities[i])) 
 
-    
     product_ratios.sort(reverse=True, key=lambda x: x[0])
 
     total_profit = 0
-    chosen_products = []
-    
-
+    chosen_products = [0] * num_products  # Initialize quantities to 0 for all products
     for _, index, cost, profit, max_qty in product_ratios:
-        
         quantity = min(max_qty, budget // cost)
-        
         if quantity > 0:
-            
             total_profit += quantity * profit
             budget -= quantity * cost
-            chosen_products.append((index, quantity))
-        
+            chosen_products[index] += quantity
         
         if budget <= 0:
             break
 
-    return total_profit, chosen_products
+    result = [(i, chosen_products[i]) for i in range(num_products)]
+    return total_profit, result
+
