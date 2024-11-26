@@ -56,8 +56,8 @@ def predict_sales(state, item_category, subcategory, num_months):
         'item category': [item_category] * num_months,
         'subcategory': [subcategory] * num_months,
         'festival': ['No Festival'] * num_months,
-        'date': pd.date_range(start=pd.to_datetime('today'), periods=num_months, freq='M')    # i have changed from ME to M (freq)
-    })
+        'date': pd.date_range(start=pd.to_datetime('today'), periods=num_months, freq='ME')    
+        })
     
     encoded_input = encoder.transform(input_data[['state', 'item category', 'festival']])
     encoded_input_df = pd.DataFrame(encoded_input, columns=encoder.get_feature_names_out(['state', 'item category', 'festival']))
