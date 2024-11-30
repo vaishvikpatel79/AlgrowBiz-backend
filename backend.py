@@ -259,7 +259,8 @@ def resetPassword():
         return jsonify({"message": "User not found"}), 404
 
     # Hash the new password and update the user record
-    user.password = newPassword
+    hashedPassword = generate_password_hash(newPassword)
+    user.password = hashedPassword
     db.session.commit()
     return jsonify({"message": "Password has been reset successfully"}), 200    
 
