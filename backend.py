@@ -432,7 +432,7 @@ def profile():
 
         entry1 = CustomerInfo.query.filter_by(userId = userId).first()
         entry2 = Credentials.query.filter_by(userId = userId).first()
-        number = 5454656546
+        number = 9564656546
         city = 'Gandhinagar'
         categoryList = entry1.prodCategories.split(", ")
         if entry1 and entry2:
